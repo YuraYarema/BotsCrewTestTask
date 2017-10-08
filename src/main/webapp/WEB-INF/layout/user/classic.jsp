@@ -11,7 +11,7 @@
 <style type="text/css">
 body {
 	padding-bottom: 70px; 
-	padding-top: 70px;
+	padding-top: 20px;
 	background-color: #b30000;
 }
 }
